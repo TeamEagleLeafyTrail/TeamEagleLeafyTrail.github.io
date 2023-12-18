@@ -1,26 +1,35 @@
 ## Leafy Trail / Team Eagle
 
 ## Introduction:
-Problem Statement: The app is designed for eco-conscious travelers who are passionate about sustainably exploring the world and are interested in reducing their carbon footprint. The goal of the app is to reduce the environmental impact of travel and inspire users to choose eco-friendly travel options by providing eco-friendly traveling alternatives and methods to track their carbon output. Users can accomplish tasks such as planning eco-friendly trips, exploring sustainable travel options, measuring and reducing their carbon footprint, and connecting with other like-minded travelers.
+Problem Statement: 
+The app is designed for eco-conscious travelers who are passionate about sustainably exploring the world and are interested in reducing their carbon footprint. The goal of the app is to reduce the environmental impact of travel and inspire users to choose eco-friendly travel options by providing eco-friendly traveling alternatives and methods to track their carbon output. Users can accomplish tasks such as planning eco-friendly trips, exploring sustainable travel options, measuring and reducing their carbon footprint, and connecting with other like-minded travelers.
 
 ## Market/Competitors Analysis:
 As noted below, there are few direct competitors for our envisioned application. FairTrip, offers unique community and socially driven features designed around eco-tourism, whereas Ecobnb focuses solely on booking vetted eco-friendly accommodations. While both applications offer something unique, they do not have features that can track estimated user carbon emissions, provide both eco-friendly activities and accommodation suggestions or offer tips to reduce carbon emissions while traveling.  
+
 FairTrip
+
 A sustainable travel guide that focuses on discovering impactful areas and promoting responsible tourism.
+
 Strengths: 
 Community-Driven Content
 Relies on user contributions to build its database of sustainable places
 Focus on Social Impact
 Highlights locations with a positive social impact to support eco-friendly communities.
+
 Limitations: 
 Their focus is heavily on social impact and may lack information on carbon footprint or eco-friendly practices
+
 Ecobnb
+
 A sustainable travel marketplace for booking eco-friendly accommodations.
+
 Strengths: 
 Diverse Sustainable Accommodations
 Lists various types of eco-friendly accommodations. (ex. Tree houses, ice igloos, and organic houses)
 Detailed Sustainability Criteria
 Accommodations must meet their criteria, which include using organic food, green building practices, 100% renewable energy, etc.
+
 Limitations:
 Focused solely on accommodations
 Lacks features like destination guides, real-time eco-friendly travel tips, or community engagement.
@@ -87,14 +96,15 @@ The user receives personalized recommendations for eco-friendly alternatives for
 Formative study
 The main objective of our formative study is to understand the target user’s level of awareness regarding eco-friendly travel apps, their travel habits, and interest in our app, and identify specific features via heuristic evaluation that have been noted by the user group.
 Example Qualitative Interview Questions:
-Travel Habits
-How frequently do you travel for leisure in a year?
-What types of travel activities do you typically engage in?
-How do you usually plan your trips?
-Eco-Friendly Travel Awareness
-How familiar are you with the concept of eco-friendly travel?
-Eco-Friendly Travel App Features
-If there was an eco-friendly travel app, what features would you find most useful? 
+1. Travel Habits
+- How frequently do you travel for leisure in a year?
+- What types of travel activities do you typically engage in?
+- How do you usually plan your trips?
+
+2. Eco-Friendly Travel Awareness
+- How familiar are you with the concept of eco-friendly travel?
+- Eco-Friendly Travel App Features
+- If there was an eco-friendly travel app, what features would you find most useful? 
 
 
 
