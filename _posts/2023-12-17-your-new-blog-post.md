@@ -81,12 +81,12 @@ The user receives personalized recommendations for eco-friendly alternatives for
 ```
 
 ## Hi-fi prototypes
-```
-<img src="image1.png"> </img>
-<img src="image2.png"> </img>
-<img src="image3.png"> </img>
-<img src="image4.png"> </img>
-```
+
+<img src="img1.png"> </img>
+<img src="img2.png"> </img>
+<img src="img3.png"> </img>
+<img src="img4.png"> </img>
+
 
 ## User study plan:
 ```
