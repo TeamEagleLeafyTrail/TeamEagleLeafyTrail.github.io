@@ -1,5 +1,9 @@
 ## Leafy Trail / Team Eagle
 
+## Introduction:
+```
+Problem Statement: The app is designed for eco-conscious travelers who are passionate about sustainably exploring the world and are interested in reducing their carbon footprint. The goal of the app is to reduce the environmental impact of travel and inspire users to choose eco-friendly travel options by providing eco-friendly traveling alternatives and methods to track their carbon output. Users can accomplish tasks such as planning eco-friendly trips, exploring sustainable travel options, measuring and reducing their carbon footprint, and connecting with other like-minded travelers. 
+```
 
 ## Market/Competitors Analysis:
 ```
