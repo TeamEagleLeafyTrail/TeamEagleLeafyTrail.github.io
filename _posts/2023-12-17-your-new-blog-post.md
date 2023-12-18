@@ -85,10 +85,10 @@ The user receives personalized recommendations for eco-friendly alternatives for
 
 ## Hi-fi prototypes
 
-<img src="img1.png">
-<img src="img2.png">
-<img src="img3.png">
-<img src="img4.png">
+<img src="/images/img1.png">
+<img src="/images/img2.png">
+<img src="/images/img3.png">
+<img src="/images/img4.png">
 
 
 ## User study plan:
