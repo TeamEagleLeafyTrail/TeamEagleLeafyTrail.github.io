@@ -1,3 +1,6 @@
+## Leafy Trail / Team Eagle
+
+
 ## Market/Competitors Analysis:
 ```
 As noted below, there are few direct competitors for our envisioned application. FairTrip, offers unique community and socially driven features designed around eco-tourism, whereas Ecobnb focuses solely on booking vetted eco-friendly accommodations. While both applications offer something unique, they do not have features that can track estimated user carbon emissions, provide both eco-friendly activities and accommodation suggestions or offer tips to reduce carbon emissions while traveling.  
@@ -31,7 +34,8 @@ Our platform will stand out as a one-stop solution that seamlessly integrates tr
 ```
 
 ## Design:
-```Task: Planning an Eco-Friendly Trip
+```
+Task: Planning an Eco-Friendly Trip
 Sub-flow 1: Explore Eco-Friendly Destinations
 User opens the app and navigates to the "Explore" section.
 The app displays a variety of eco-friendly destinations based on the user's preferences and interests.
